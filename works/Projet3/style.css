@@ -1,0 +1,48 @@
+@font-face
+{
+    font-family: 'Roboto';
+    src: url('polices/roboto/Apache\ License.txt');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'Shrikhand';
+    src: url('polices/shrikhand/Shrikhand-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body, html {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+  }
+
+body 
+  {
+    font-family: 'Roboto','Shrikhand', serif;
+    max-width: 1200px;
+    margin: auto;
+  }
+
+@media screen and (max-width: 650px){
+
+.header-img {
+  width: 43%;
+  margin-left: 188px;
+}
+
+.header-city {
+  display: flex;
+  margin-left: 49px;
+  width: 86%;
+  background-color: lightgrey;
+}
+
+.header-i {
+  padding: 13px 15px;
+}
+
+}
