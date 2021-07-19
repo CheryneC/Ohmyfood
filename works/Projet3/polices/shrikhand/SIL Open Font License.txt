@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Copyright (c) 2015 Jonny Pinhorn (jonpinhorn.typedesign@gmail.com)
 
+=======
+Copyright (c) 2015 Jonny Pinhorn (jonpinhorn.typedesign@gmail.com)
+
+>>>>>>> 73b8d0e6eb5c29ff14dee63ba6f2c9c2807f9ee6
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
