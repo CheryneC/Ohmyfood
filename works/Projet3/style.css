@@ -1,7 +1,7 @@
 @font-face
 {
     font-family: 'Roboto';
-    src: url('polices/roboto/Apache\ License.txt');
+    src: url('polices/roboto/Roboto-Black.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -25,16 +25,34 @@ body
 
 .header-img {
   width: 43%;
+  margin-left: 174px;
 }
 
 .header-city {
   display: flex;
   width: 86%;
   background-color: lightgrey;
+  margin-left: 47px;
 }
 
 .header-i {
   padding: 13px 15px;
+  margin-left: 188px;
+}
+
+.header-reservation {
+  width: 86%;
+  margin-left: 47px;
+  background-color: #ebebeb;
+  margin-top: -20px;
+  text-align: center;
+}
+
+.header-btn {
+  background: linear-gradient(180deg,#FF79DA, #9356DC);
+  color: white;
+  border-radius: 25px;
+  padding: 10px 20px;
 }
 
 }
