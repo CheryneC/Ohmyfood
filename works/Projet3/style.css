@@ -63,7 +63,7 @@ body
 .section1-btn {
   background-color: #ebebeb;
   border-radius: 13px;
-  width: 44%;
+  width: 88%;
   display: flex;
   box-shadow: 4px 5px 5px lightgrey;
   margin-block-start: 15px;
@@ -72,7 +72,7 @@ body
 .section1-btn--lila {
   background-color: #deccf4;
   border-radius: 13px;
-  width: 44%;
+  width: 88%;
   display: flex;
   box-shadow: 4px 5px 5px lightgrey;
   margin-block-start: 15px;
@@ -81,7 +81,7 @@ body
 .section1-numbers {
   background-color: #9356DC;
   border-radius: 100%;
-  width: 10%;
+  width: 6%;
   height: 26px;
   color: white;
   text-align: center;
@@ -94,6 +94,36 @@ body
   margin-top: 15px;
   margin-left: 15px;
   margin-right: 15px;
+}
+
+.section2-all {
+  background-color: #ebebeb;
+  width: 86%;
+  margin-left: 47px;
+}
+
+.section2-bloc {
+  background-color: white;
+  width: 89%;
+  margin-left: 32px;
+  border-radius: 18px;
+  margin-block-end: 20px;
+}
+
+.section2-img {
+  width: 100%;
+  height: 179px;
+  border-radius: 18px 18px 0 0;
+}
+
+.footer {
+  color: white;
+  background-color: black;
+}
+
+.footer-title {
+  font-family: 'Shrikhand';
+  color: white;
 }
 
 }
