@@ -125,6 +125,13 @@ body
   border-radius: 18px 18px 0 0;
 }
 
+.section2-description {
+  display: flex;
+}
+
+.section2-heart {
+
+
 footer {
   color: white;
   background-color: black;
