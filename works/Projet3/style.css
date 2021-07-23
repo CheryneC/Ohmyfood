@@ -25,7 +25,7 @@ body
 
 .header-img {
   width: 43%;
-  margin-left: 174px;
+  margin-left: 183px;
 }
 
 .header-city {
@@ -130,7 +130,9 @@ body
 }
 
 .section2-heart {
-
+  margin-top: 36px;
+  margin-left: 285px;
+}
 
 footer {
   color: white;
