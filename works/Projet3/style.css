@@ -1,7 +1,7 @@
 @font-face
 {
     font-family: 'Roboto';
-    src: url('polices/roboto/Roboto-Black.ttf');
+    src: url('polices/roboto/Roboto-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -227,5 +227,25 @@ footer {
 
 .section1-numbers {
   width: 10%;
+}
+
+.section2-allbloc {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.section2-img {
+  height: 214px;
+}
+
+.section2-bloc {
+  width: 42%;
+  margin-left: 46px;
+}
+
+.section2-new {
+  left: 35%;
+  bottom: 21%;
+  width: 11%;
 }
 }
