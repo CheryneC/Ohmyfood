@@ -248,4 +248,21 @@ footer {
   bottom: 21%;
   width: 11%;
 }
+
+.section2-heart {
+  margin-top: 25px;
+  margin-left: 189px;
+}
+
+.footer-title {
+  margin: 0;
+}
+}
+
+@media screen and (max-width: 1200px){
+.header-img{
+  margin-left: 23%;
+}
+
+
 }
