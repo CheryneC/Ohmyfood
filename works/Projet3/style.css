@@ -264,5 +264,50 @@ footer {
   margin-left: 23%;
 }
 
+.header-city {
+  margin-right: 5%;
+  width: 40%;
+}
 
+.header-i {
+  margin-left: 148px;
+}
+
+.header-reservation {
+  width: 40%;
+  margin-right: 5%
+}
+
+.section1-all {
+  position: absolute;
+  top: 11%;
+  width: 40%
+}
+
+.section2-allbloc {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.section2-img {
+  height: 214px;
+}
+
+.section2-bloc {
+  width: 42%;
+  margin-left: 46px;
+}
+
+.section2-new {
+  left: 34%;
+  bottom: 45%;
+}
+
+.section2-heart {
+  margin-left: 287px;
+}
+
+.footer-title {
+  margin: 0;
+}
 }
