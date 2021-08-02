@@ -159,7 +159,7 @@ footer {
   text-decoration: none;
 }
 
-@media screen and (max-width: 650px){
+@media screen and (min-width: 650px){
 
   .header-img {
     margin-left: 137px;
@@ -208,7 +208,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 950px){
+@media screen and (min-width: 950px){
 .header-img {
   margin-left: 23%;
 }
@@ -259,7 +259,7 @@ footer {
 }
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (min-width: 1200px){
 .header-img{
   margin-left: 23%;
 }
